@@ -116,7 +116,7 @@ attrition-ibm/
 ├── README.md                           ← This file
 ├── LICENSE                             ← MIT
 └── data/
-    └── WA_Fn-UseC_-HR-Employee-Attrition.csv
+    └── Dataset.csv
 ```
 
 ---
